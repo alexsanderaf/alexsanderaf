@@ -1,7 +1,7 @@
  ## Olá pessoal, eu sou o Alexsander!
  
  👨‍💻 Atualmente trabalho com desenvolvimento na aplicação IBM Máximo (ITSM), realizando novas implementações, automações e correções no código fonte e banco de dados (IBM DB2). 
- 💻 Tenho mais afinidade com Javascript (NodeJS), mas tenho noções de automações com python.
+ 
  
  ##
 
